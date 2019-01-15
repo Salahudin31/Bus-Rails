@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nama_pen: MyString
+  no_telp: 1
+  alamat: MyString
+  status_pem: MyString
+  jmlh_pem: 1
+  bangku: one
+  jadwal: one
+
+two:
+  nama_pen: MyString
+  no_telp: 1
+  alamat: MyString
+  status_pem: MyString
+  jmlh_pem: 1
+  bangku: two
+  jadwal: two

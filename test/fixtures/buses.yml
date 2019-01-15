@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  no_bus: MyString
+  jenis_bus: MyString
+  jumlah_b: 1
+  fasilitas: MyString
+
+two:
+  no_bus: MyString
+  jenis_bus: MyString
+  jumlah_b: 1
+  fasilitas: MyString
